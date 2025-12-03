@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Primary Meta Tags for SEO -->
+  <title>Bit Planes – Unblocked, Fullscreen</title>
+  <meta name="description" content="Bit Planes is a fast-paced flying game where you dodge enemies, shoot targets, and master the skies in retro-style arcade action. Fun, simple, and addictive!." />
+  <link rel="icon" href="/images/favicon.ico">
+
+  <!-- Hreflang tags for multi-language support -->
+        <link rel="alternate" hreflang="en" href="/game/bit-planes" />
+      <link rel="alternate" hreflang="fr" href="/fr/game/bit-planes" />
+      <link rel="alternate" hreflang="es" href="/es/game/bit-planes" />
+      <link rel="alternate" hreflang="de" href="/de/game/bit-planes" />
+    <link rel="alternate" hreflang="x-default" href="/game/bit-planes" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="game" />
+  <meta property="og:title" content="Bit Planes – Unblocked, Fullscreen" />
+  <meta property="og:description" content="Bit Planes is a fast-paced flying game where you dodge enemies, shoot targets, and master the skies in retro-style arcade action. Fun, simple, and addictive!" />
+  <meta property="og:url" content="https://nargames.com/game/bit-planes" />
+  <meta property="og:image" content="https://nargames.com/storage/uploads/images/bit-planes-online-for-free.webp" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="article:publisher" content="https://www.facebook.com/61582049725984" />
+  <meta property="article:tag" content="Bit planes, online games, free games" />
+  <meta property="article:section" content=".io" />
+  <meta property="og:updated_time" content="2025-11-19T15:25:01+00:00" />
+  <meta property="og:image:secure_url" content="https://nargames.com/storage/uploads/images/bit-planes-online-for-free.webp" />
+  <meta property="og:image:alt" content="Play Bit planes online for free" />
+  <meta property="og:image:type" content="image/webp" />
+  <meta property="og:site_name" content="NarGames" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Bit Planes – Unblocked, Fullscreen" />
+  <meta name="twitter:description" content="Bit Planes is a fast-paced flying game where you dodge enemies, shoot targets, and master the skies in retro-style arcade action. Fun, simple, and addictive!" />
+  <meta name="twitter:image" content="https://nargames.com/storage/uploads/images/bit-planes-online-for-free.webp" />
+  <meta name="twitter:site" content="@nargames" />
+
+  <!-- Fonts & Favicon -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"></noscript>
+      <link rel="icon" href="/favicon.ico?v=1754344878" type="image/x-icon">
+  
+  <link rel="preload" as="style" href="/build/assets/front-CB_owZco.css" /><link rel="stylesheet" href="/build/assets/front-CB_owZco.css" />
+    <!-- Additional SEO Meta Tags -->
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="googlebot" content="index, follow" />
+  <meta name="language" content="English" />
+  <meta name="revisit-after" content="1 day" />
+  <meta name="distribution" content="global" />
+  <meta name="rating" content="general" />
+
+  <!-- Schema Markup for Organization -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://nargames.com#organization",
+    "name": "NarGames",
+    "url": "https://nargames.com",
+    
+        "description": "Play thousands of the best free online games instantly",
+    "logo": "/images/logo.webp",
+    "image": "/images/og-image.webp",
+    
+    "email": "contact@nargames.com",
+    "contactPoint": [{
+        "@type": "ContactPoint",
+        "contactType": "Customer Support",
+        "url": "/contact-us/",
+        "email": "contact@nargames.com",
+        "telephone": "+12063293789"
+    }],
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "US",
+        "postalCode": "98122",
+        "addressLocality": "Seattle",
+        "addressRegion": "WA",
+        "streetAddress": "330 19th Ave"
+    },
+    "telephone": "+12063293789",
+    "founder": {
+        "@id": "/author/"
+    },
+    "foundingDate": "2010-12-01",
+    "sameAs": [
+                              "/about-us/",                                        "https://www.facebook.com/",                                        "https://x.com/Nargames_com"                      ]
+}
+</script>
+
+<!-- Schema Markup for Game SEO -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [{
+        "@type": "WebSite",
+        "@id": "https://nargames.com#website",
+        "url": "https://nargames.com",
+        "name": "Best Free Online Games on NarGames – Play Now!",
+        "publisher": {
+            "@id": "https://nargames.com#organization"
+        },
+        "inLanguage": "en-US"
+    }, {
+        "@type": "Person",
+        "@id": "https://nargames.com/author/smith/#person",
+        "name": "Jad Smith",
+        "gender": "Male",
+        "jobTitle": "Creator",
+        "url": "https://nargames.com/author/smith/",
+        "sameAs": [
+                                          "https://www.facebook.com/61582049725984"                                  ]
+    }, {
+        "@type": "ImageObject",
+        "@id": "https://nargames.com/storage/uploads/thumbs/bit-planes.webp",
+        "url": "https://nargames.com/storage/uploads/thumbs/bit-planes.webp",
+        "width": 512,
+        "height": 512,
+        "caption": "Bit planes",
+        "inLanguage": "en-US"
+    }, {
+        "@type": "WebPage",
+        "@id": "https://nargames.com/game/bit-planes#webpage",
+        "url": "https://nargames.com/game/bit-planes",
+        "name": "Bit planes – Play Free Online | NarGames",
+        "datePublished": "2025-08-14T21:13:46+00:00",
+        "dateModified": "2025-11-19T15:25:01+00:00",
+        "isPartOf": {
+            "@id": "https://nargames.com#website"
+        },
+        "primaryImageOfPage": {
+            "@id": "https://nargames.com/storage/uploads/thumbs/bit-planes.webp"
+        },
+        "inLanguage": "en-US"
+    }, {
+        "@type": "SoftwareApplication",
+        "name": "Bit planes – Play Free Online | NarGames",
+        "description": "Play Bit planes online for free! Join thrilling pixel dogfights, outfly rivals, and shoot to win in fast-paced aerial battles. No downloads or logins needed.",
+        "operatingSystem": "Windows, Chrome OS, Linux, MacOS, Android, iOS",
+        "applicationCategory": "Game",
+        "offers": {
+            "@type": "Offer",
+            "price": "0.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+        },
+                "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "ratingCount": "17",
+            "worstRating": "1",
+            "bestRating": "5"
+        },
+                        "image": {
+            "@id": "https://nargames.com/storage/uploads/thumbs/bit-planes.webp"
+        },
+        "@id": "https://nargames.com/game/bit-planes#schema-83",
+        "isPartOf": {
+            "@id": "https://nargames.com/game/bit-planes#webpage"
+        },
+        "publisher": {
+            "@id": "https://nargames.com#organization"
+        },
+        "inLanguage": "en-US",
+        "mainEntityOfPage": {
+            "@id": "https://nargames.com/game/bit-planes#webpage"
+        }
+    }
+        ,{
+        "@type": "VideoObject",
+        "name": "bit planes",
+        "description": "We played bit planes for the first time(on pc)",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3_zxBsAoEgk/hqdefault.jpg",
+        "uploadDate": "2024-04-17T22:45:00Z",
+        "duration": "PT15M7S",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/3_zxBsAoEgk"
+    }
+        ]
+}
+</script>
+
+<!-- Schema Markup for Breadcrumbs -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "/"
+    }
+        ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": ".io",
+      "item": "/"
+    }
+        ,{
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Bit Planes"
+    }
+  ]
+}
+</script>
+</head>
+<body>
+  <!-- HEADER -->
+  <header>
+    <div class="container">
+      <div class="header-content">
+        <a class="brand" href="/" aria-label="Homepage">
+          <img src="/images/logo.webp" alt="Logo" width="160" height="40" fetchpriority="high" loading="eager">
+        </a>
+        <div class="search-bar">
+          <form action="/games" method="GET">
+              <input type="text" name="q" placeholder="Search for games..." aria-label="Search for games...">
+          </form>
+        </div>
+        <nav aria-label="Main navigation">
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="https://t-iny.com/HfDl">Donate</a></li>
+            <li><a href="https://t-iny.com/kUIP">More Games</a></li>
+                      </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main>
+      <!-- GAME SECTION -->
+  <section class="game-section">
+    <div class="container">
+      <div class="game-layout">
+        <!-- Main Game Area -->
+        <div class="game-main">
+          <!-- Game Frame -->
+          <div class="game-frame" id="game-container" data-iframe-url="https://medv.io/bit-planes/" >
+            <div class="game-placeholder-background" style="background-image: url('/images/bit-planes.webp');"></div>
+            <div class="game-placeholder-content">
+                <img src="/images/bit-planes.webp" alt="Bit Planes Thumbnail" class="game-placeholder-thumbnail">
+                <button id="play-button" class="play-button">▶ Play Now</button>
+            </div>
+          </div>
+          
+          <!-- Game Controls -->
+          <div class="game-controls">
+            <div class="game-info">
+              <img src="/images/bit-planes-180x180.webp" alt="Bit planes" class="game-icon">
+              <div class="game-meta">
+                <div class="game-title">Bit Planes</div>
+                <div class="game-stats">
+                  <div class="rating">
+                    <span class="stars">
+                                                                        <span class="star full">★</span>
+                                                                                                <span class="star full">★</span>
+                                                                                                <span class="star full">★</span>
+                                                                                                <span class="star full">★</span>
+                                                                                                <span class="star half">★</span>
+                                                                  </span>
+                    <span>4.8</span>
+                  </div>
+                            
+                  
+                  
+                </div>
+              </div>
+            </div>
+            
+            <div class="game-actions">
+              <button class="action-btn like" onclick="likeGame(event)" aria-label="Like game">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-thumbs-up"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path></svg>
+              </button>
+              <button class="action-btn dislike" onclick="dislikeGame(event)" aria-label="Dislike game">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-thumbs-down"><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3zm7-13h2.67A2.31 2.31 0 0 1 22 4.33l-2 9a2.31 2.31 0 0 1-2.33 2H17"></path></svg>
+              </button>
+              <button class="action-btn fullscreen" onclick="toggleFullscreen()" aria-label="Fullscreen">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>
+              </button>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Sidebar -->
+        <aside class="game-sidebar">
+          <div class="sidebar-section">
+            <div class="sidebar-title">More Games</div>
+            <div class="more-games-grid">
+                            <a href="/game/moto-x3m" class="game-thumb">                <img src="/images/moto-x3m.webp" alt="Moto X3M">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Moto X3M</div>
+                </div>
+              </a>
+                            <a href="/game/flappy-bird" class="game-thumb">                <img src="/images/flappy-bird.webp" alt="Flappy Bird">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Flappy Bird</div>
+                </div>
+              </a>
+                            <a href="/game/tiny-fishing" class="game-thumb">                <img src="/images/tiny-fishing.webp" alt="Tiny Fishing">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Tiny Fishing</div>
+                </div>
+              </a>
+                            <a href="/game/chrome-dinosaur" class="game-thumb">                <img src="/images/chrome-dinosaur.webp" alt="Chrome Dinosaur">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Chrome Dinosaur</div>
+                </div>
+              </a>
+                            <a href="/game/monkey-mart" class="game-thumb">                <img src="/images/monkey-mart.webp" alt="Monkey Mart">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Monkey Mart</div>
+                </div>
+              </a>
+                            <a href="/game/subway-surfers" class="game-thumb">                <img src="/images/subway-surfers.webp" alt="Subway Surfers">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Subway Surfers</div>
+                </div>
+              </a>
+                            <a href="/game/fruit-ninja" class="game-thumb">                <img src="/images/fruit-ninja.webp" alt="Fruit Ninja">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Fruit Ninja</div>
+                </div>
+              </a>
+                            <a href="/game/eggy-car" class="game-thumb">                <img src="/images/eggy-car.webp" alt="Eggy Car">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Eggy Car</div>
+                </div>
+              </a>
+                            <a href="/game/bitlife" class="game-thumb">                <img src="/images/bitlife.webp" alt="BitLife">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Bit Life</div>
+                </div>
+              </a>
+                            <a href="/game/bob-the-robber" class="game-thumb">                <img src="/images/bob-the-robber.webp" alt="Bob The Robber">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Bob The Robber</div>
+                </div>
+              </a>
+                            <a href="/game/stickman-hook" class="game-thumb">                <img src="/images/stickman-hook.webp" alt="Stickman Hook">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Stickman Hook</div>
+                </div>
+              </a>
+                            <a href="/game/red-boy-and-blue-girl" class="game-thumb">                <img src="/images/red-boy-and-blue-girl.webp" alt="Red Boy And Blue Girl">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Red Boy And Blue Girl</div>
+                </div>
+              </a>
+                            <a href="/game/gun-spin" class="game-thumb">                <img src="/images/gun-spin.webp" alt="Gun Spin">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Gun Spin</div>
+                </div>
+              </a>
+                            <a href="/game/temple-run-2" class="game-thumb">                <img src="/images/temple-run-2.webp" alt="Temple Run 2">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Temple Run 2</div>
+                </div>
+              </a>
+                            <a href="/game/duck-life" class="game-thumb">                <img src="/images/duck-life.webp" alt="Duck Life">
+                <div class="game-thumb-overlay">
+                  <div class="game-thumb-title">Duck Life</div>
+                </div>
+              </a>
+                          </div>
+          </div>
+        </aside>
+      </div>
+      
+      <div class="about-content">
+                
+                <div class="game-about-header">
+                    <h1 class="game-about-title">Bit Planes</h1>
+          <span style="font-size: 1.5rem;">🎮</span>
+        </div>
+        
+        <p>Bit Planes is an exciting retro-style flying game where you pilot classic planes through action-packed skies. Avoid obstacles, shoot enemies, and survive wave after wave of aerial battles. With colorful graphics, smooth controls, and arcade-style gameplay, Bit Planes delivers nonstop fun for casual and hardcore gamers alike. Improve your flying skills, chase high scores, and dominate the sky in this addictive airplane game!</p>
+
+<h2>Play Bit planes Unblocked Online for Free</h2>
+
+<h2>About Bit planes</h2>
+<p>Bit planes is a 2D aerial combat game with cute pixel art and fast play. Players fly small fighter planes in single player or multiplayer matches. The game was inspired by classic arcade flyers, and it launched as a browser game so everyone can play instantly. Kids and grown ups both enjoy the simple controls and exciting dogfights.</p>
+
+<h3>Gameplay</h3>
+<p>In Bit planes you pilot a plane, control thrust, and fire guns and missiles. Matches can be one on one or involve many pilots at once. The maps are side-scrolling and full of airspace to fight in. You will learn to aim while moving, dodge enemy fire, and use altitude to your benefit. Each round is short and thrilling, so you can play again and again.</p>
+
+<h3>Platform</h3>
+<p>You can play Bit planes unblocked no flash right in your web browser no need to search for Bit planes Poki or Bit planes github,it's already on our website no downloads needed. It runs smoothly on Chrome, Firefox, Edge, Safari, and more. Prefer a bigger screen? Grab the Steam version for PC or Mac, or take the action on the go with Android and iOS apps.</p>
+
+<h2>How to Play</h2>
+
+<h3>Controls</h3>
+<ul>
+<li>Arrow Up / Down: Change thrust or speed</li>
+<li>Arrow Left / Right: Tilt or pitch the plane</li>
+<li>Spacebar: Fire machine guns</li>
+<li>X: Launch a missile</li>
+<li>C: Eject from your plane</li>
+<li>Mouse click or tap (mobile): Flap or rise, then release to fall</li>
+</ul>
+
+<h2>Tips &amp; Tricks for Bit planes</h2>
+<ul>
+<li>Practice throttle control, small changes keep you alive longer.</li>
+<li>Use altitude to dodge and to aim, higher ground helps in fights.</li>
+<li>Fire missiles when close, they have limited range but big impact.</li>
+<li>Eject if your plane is about to explode, respawn and return faster.</li>
+<li>Watch how other pilots move, copy smart moves and avoid bad ones.</li>
+<li>Try different modes, some teach survival while others teach aiming.</li>
+<li>Keep calm in crowded matches, a steady hand beats panic flying.</li>
+</ul>
+
+<h2>Features</h2>
+<ul>
+<li>Graphics &amp; art style: Retro pixel art that looks cute and clear.</li>
+<li>Sound &amp; music: Snappy sound effects and upbeat music to match the action.</li>
+<li>Game modes: Deathmatch, Teams, Duel, Survival, Domination, Swarm, and more.</li>
+<li>Controls: Simple keyboard and mouse setup that responds quickly.</li>
+<li>Multiplayer and solo: Play with friends or learn alone against bots.</li>
+<li>Quick rounds: Short matches so you can play many games fast.</li>
+</ul>
+
+<h2>Bit planes Unblocked</h2>
+<p>Need to play at school or on a restricted network? Good news. Because it's an HTML5 browser game, you can jump in without downloads or installs. Just open the game on any device and start playing. There are no blockers and no worries. Play Bit planes unblocked games 76 wherever you are and enjoy endless fun whenever you want.</p>
+
+<h2>Bit planes Online</h2>
+<p>You can play Bit planes game online right in your browser, no downloads or installs needed! The game works perfectly on all popular browsers like Chrome, Firefox, Edge, and Safari, and our website always has the latest version of Bit planes available for free. Just click and start playing instantly!</p>
+
+<h2>Download Bit planes</h2>
+<p>You can play <strong>Bit planes game</strong> on your phone or tablet for free!<br>- Download for iPhone or iPad: <a href="https://apps.apple.com/us/app" target="_blank" rel="noopener">App Store</a><br>- Download for Android devices: <a href="https://play.google.com/store" target="_blank" rel="noopener">Google Play</a></p><p>Just tap the link for your device and start playing anywhere!</p>
+
+<h2>FAQ</h2>
+<div itemscope itemtype="https://schema.org/FAQPage"><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">What is Bit Planes?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Bit Planes is an action-packed aerial combat game with modes like Death Match, Teams, Duel, Survival, and fun variations such as Swarm, Domination, and Revenge. You pilot planes and compete against others in exciting air battles.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">How do I control my plane?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Use the arrow keys for movement: Up/Down control thrust, Left/Right control the elevator. Press Space to fire guns, X to launch missiles, and C to catapult or parachute.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">What game modes are in Bit Planes?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">You can play Death Match, Teams, Duel, Survival, and special modes like Swarm, Domination, and Revenge.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">Can I play Bit Planes online with others?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Yes, Bit Planes supports multiplayer battles so you can compete with players from around the world.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">What weapons can I use?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">You can equip and use guns and missiles. Fire guns with Space, deploy missiles with X, and use C to eject if needed.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">Is Bit Planes free to play?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Yes, Bit Planes is free to play in your browser and on most mobile apps, with no download required on many platforms.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">Any tips for getting better?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Like every plane game unblocked, practice the controls, try all game modes to improve tactics, and use weapons and power-ups wisely for the best results.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">What platforms can I play on?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Bit Planes works on PC with keyboard controls and may offer local split-screen play on some versions.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">How do I eject from my plane?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Press the C key to catapult or parachute from your plane during gameplay.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">Is Bit Planes free?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Yes, Bit Planes is free to play in your browser and on most mobile apps. You can jump in without paying.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">Can I play Bit Planes with friends?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Yes, there are multiplayer rooms where you can join friends or meet new pilots for fun matches.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">What if I find the controls hard?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">Start in a practice mode or play against bots. Try small throttle changes and short flights until you feel steady.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">Can I play Bit Planes mobile?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">No, Bit Planes is only available on PC. It requires a keyboard for controls and is not currently supported on mobile devices.</p></div></div><div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"><h3 itemprop="name">Are there any Bit Planes codes?</h3><div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><p itemprop="text">At the moment, Bit Planes does not offer cheat codes or promo codes. All progress and rewards are earned through gameplay.</p></div></div></div>
+
+<h2>Game Details</h2>
+<table><tr><th>Release Date</th><td>January 2025</td></tr><tr><th>Developer</th><td><a href="https://medv.io/" target="_blank" rel="noopener">Anton Medvedev</a></td></tr><tr><th>Technology</th><td>HTML5</td></tr></table>
+
+<h2>Similar Games</h2>
+<ul><li><a href="https://nargames.com/game/ships-3d" target="_blank">Ships 3d</a>: Jump into chaotic 20-player naval battles, upgrade weapons and sink foes instantly.</li><li>Bonk.io</li><li>Snake.io</li><li>Mope.io</li><li>Dig Dig.io</li></ul>
+
+<p><a href="/">More free browser games</a></p>
+
+<h2>Conclusion</h2>
+<p>Bit planes is a fun, fast, and friendly plane game that kids can learn quickly. The controls are very simple, but the skill ceiling is high, so you can keep improving. Play short rounds, try different modes, and practice dodging and aiming. If you want quick thrills and cute pixel planes, Bit planes is ready to fly. Click play and start your first dogfight now, and remember to have fun while you practice.</p>
+
+              </div>
+
+            
+     
+          </div>
+  </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer id="contact">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-links">
+          <a href="pages/privacy-policy">Privacy Policy</a>
+          <a href="pages/terms-and-conditions">Terms and Conditions</a>
+          <a href="pages/about-us">About Us</a>
+          <a href="pages/contact-us">Contact Us</a>
+          <a href="pages/dmca-policy">DMCA Policy</a>
+          <a href="pages/information-for-parents">Information for Parents</a>
+        </div>
+        <div class="footer-bottom">
+          <div class="footer-copyright">
+            <div class="footer-social">
+              <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Facebook">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v2.385z"/></svg>
+              </a>
+              <a href="https://x.com/" target="_blank" rel="noopener" aria-label="X">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.617l-5.21-6.817-6.022 6.817h-3.308l7.732-8.835-7.732-10.665h6.717l4.723 6.574 5.404-6.574z"/></svg>
+              </a>
+            </div>
+            <p>© <span id="year"></span> Bit Planes. All Rights Reserved. Made With ❤️ For Gamers Worldwide.</p>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scroll to top button -->
+  <button class="scroll-top" aria-label="Scroll to top">↑</button>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const gameContainer = document.getElementById('game-container');
+        const playButton = document.getElementById('play-button');
+        const thumbnail = document.querySelector('.game-placeholder-thumbnail');
+
+        function loadGame() {
+            const iframeUrl = gameContainer.getAttribute('data-iframe-url');
+            if (iframeUrl) {
+                const iframe = document.createElement('iframe');
+                iframe.setAttribute('src', iframeUrl);
+                iframe.setAttribute('class', 'game-iframe');
+                iframe.setAttribute('allowfullscreen', '');
+                iframe.setAttribute('title', 'Bit planes Game');
+                
+                // Clear the container and append the iframe
+                gameContainer.innerHTML = '';
+                gameContainer.appendChild(iframe);
+                
+                // Focus the iframe after it has loaded
+                iframe.onload = function() {
+                    iframe.focus();
+                };
+            }
+        }
+
+        if (gameContainer && playButton) {
+            playButton.addEventListener('click', loadGame);
+        }
+
+        if (thumbnail) {
+            thumbnail.addEventListener('click', loadGame);
+        }
+
+        const gameSlug = 'bit-planes';
+        const vote = localStorage.getItem(`game_vote_${gameSlug}`);
+        if (vote === 'like') {
+            document.querySelector('.action-btn.like').classList.add('active');
+        } else if (vote === 'dislike') {
+            document.querySelector('.action-btn.dislike').classList.add('active');
+        }
+    });
+  </script>
+  <script>
+    // Game interactions
+    function likeGame(event) {
+      const button = event.currentTarget;
+      const gameSlug = 'bit-planes';
+      const vote = localStorage.getItem(`game_vote_${gameSlug}`);
+
+      if (vote === 'like') {
+        localStorage.removeItem(`game_vote_${gameSlug}`);
+        button.classList.remove('active');
+      } else {
+        localStorage.setItem(`game_vote_${gameSlug}`, 'like');
+        button.classList.add('active');
+        document.querySelector('.action-btn.dislike').classList.remove('active');
+        sendVote(true);
+      }
+
+      // Add animation effect
+      button.style.transform = 'scale(1.2)';
+      setTimeout(() => {
+        button.style.transform = '';
+      }, 200);
+    }
+
+    function dislikeGame(event) {
+      const button = event.currentTarget;
+      const gameSlug = 'bit-planes';
+      const vote = localStorage.getItem(`game_vote_${gameSlug}`);
+
+      if (vote === 'dislike') {
+        localStorage.removeItem(`game_vote_${gameSlug}`);
+        button.classList.remove('active');
+      } else {
+        localStorage.setItem(`game_vote_${gameSlug}`, 'dislike');
+        button.classList.add('active');
+        document.querySelector('.action-btn.like').classList.remove('active');
+        sendVote(false);
+      }
+
+      // Add animation effect
+      button.style.transform = 'scale(1.2)';
+      setTimeout(() => {
+        button.style.transform = '';
+      }, 200);
+    }
+
+    function sendVote(isLike) {
+        const gameSlug = 'bit-planes';
+        const key = localStorage.getItem(`game_vote_key_${gameSlug}`);
+
+        fetch('/game-vote', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRF-TOKEN': 'o31FpnSHwHYIgZkK4R1epfrFzHpdrAgrFY1ooPj7'
+            },
+            body: JSON.stringify({
+                slug: gameSlug,
+                vote: isLike,
+                key: key
+            })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.key) {
+                localStorage.setItem(`game_vote_key_${gameSlug}`, data.key);
+            }
+        })
+        .catch(error => console.error('Error:', error));
+    }
+    
+    function toggleFullscreen() {
+      const gameFrame = document.querySelector('.game-frame');
+      
+      if (!document.fullscreenElement) {
+        gameFrame.requestFullscreen().catch(err => {
+          console.log(`Error attempting to enable fullscreen: ${err.message}`);
+        });
+      } else {
+        document.exitFullscreen();
+      }
+    }
+  </script>
+
+  <link rel="modulepreload" href="/build/assets/front-DfPJ8uEq.js" /><script type="module" src="/build/assets/front-DfPJ8uEq.js"></script>
+      <!-- Google tag (gtag.js) -->
+
+  
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"281413d275904761aaadb9ebc035c69d","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
