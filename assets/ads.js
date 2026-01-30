@@ -1,4 +1,3 @@
-document.write(`
 <script>
   atOptions = {
     'key' : '69a76a5b850adf14193e0bc98b8e1a40',
@@ -9,4 +8,3 @@ document.write(`
   };
 <\/script>
 <script src="https://stemboastfulrattle.com/69a76a5b850adf14193e0bc98b8e1a40/invoke.js"><\/script>
-`);
